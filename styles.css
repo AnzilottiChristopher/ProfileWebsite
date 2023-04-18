@@ -12,14 +12,13 @@
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
-    width: 80%;
 }
 
 .nav-option {
     color: rgb(232, 230, 227);
-    margin-right: 10;
-    margin-left: 10;
     font-size: 20;
+    display: flex;
+    flex-direction: column;
 }
 
 .background{
@@ -29,4 +28,11 @@
 .name{
     color: rgb(219, 222, 222);
     font-size: 30;
+}
+
+.navigation
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
