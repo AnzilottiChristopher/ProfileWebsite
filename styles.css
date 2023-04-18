@@ -36,3 +36,16 @@
     flex-direction: row;
     justify-content: space-evenly;
 }
+
+.backgroundProjects
+{
+    background-color: rgb(117, 123, 126);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.codeImage{
+    background-color: rgb(13, 106, 153);
+    width: 50%;
+    text-align: center;
+}
